@@ -1,16 +1,20 @@
-# untitled
+# Название работы
 
-A new Flutter project.
+Лабораторная работа №3
 
-## Getting Started
+## Были выполнены задания:
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Создать приложение flutter.
+2. Замените название приложения и заголовок на «Инкремент».
+3. Замените тему приложения на тему любого другого цвета.
+4. Замените надпись над цифрой на «Значение инкремента:».
+5. Уберите кнопку с нижнего правого угла.
+6. Добавьте в центр две кнопки с иконками «–» и «+».
+7. Добавьте соответствующие функции кнопкам:
+плюс – прибавляет единицу, минус – вычитает.
+8. Расположите кнопки горизонтально рядом друг с другом.
+9. Добавьте третью текстовую кнопку с текстом «Сбросить». Сде-
+лайте ее прозрачной с серым цветом текста. Расположите ее ниже двух преды- дущих кнопок.
+10. Добавьте к кнопке «Сбросить» функцию сброса счетчика на ноль. То есть при нажатии на нее счетчик долен сброситься и отобразить цифру «0».
